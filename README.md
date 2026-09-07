@@ -61,12 +61,6 @@ A console-based C++ application developed for the System Design (TCS-504) course
 
 ---
 
-## 📐 UML Diagrams
-
-- ClassDiagram.png
-- SequenceDiagram.png
-
----
 
 ## 👩‍💻 Author
 
